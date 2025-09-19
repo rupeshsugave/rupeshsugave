@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Rupesh 👋  
 
-<!--
-**rupeshsugave/rupeshsugave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student | 💻 Programmer | 🌐 Technology Enthusiast  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+- 🌱 Currently learning **Data Structures & Algorithms (C/Java)**  
+- 💡 Passionate about **technology** and staying updated with the latest trends in the tech industry  
+- 📚 Exploring **Git, GitHub, and Open Source contributions**  
+- 🤝 Open to collaborating on projects that enhance learning and problem-solving skills  
+
+---
+
+## 🛠️ Skills & Tools  
+- **Languages**: C, C++, Java  
+- **Version Control**: Git & GitHub  
+- **Core Competencies**: Programming, Problem Solving, DSA  
+
+---
+
+## 📫 Connect With Me  
+- GitHub: [rupeshsugave](https://github.com/rupeshsugave)  
+- Email: rupeshsugave@gmail.com 
+
+---
+
+⭐️ Profile maintained by [Rupesh Sugave](https://github.com/rupeshsugave)  
+
